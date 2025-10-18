@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusha2157&label=Profile%20views&color=0e75b6&style=flat" alt="yusha2157" /> </p>
 
-- 🔭 I’m currently working on **InterLink**
+- 🔭 I’m currently working on **Automation Using Python**
 
-- 🌱 I’m currently learning **JAVA , Next.js , React Native**
+- 🌱 I’m currently learning **JAVA , Android development , Python**
 
 - 👯 I’m looking to collaborate on **Various Projects**
 
